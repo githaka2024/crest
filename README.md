@@ -1,6 +1,6 @@
 <picture>
     <source srcset="./dump/svg/light.svg" media="(prefers-color-scheme: dark)">
-    <img width="30px" height="30px" src="./dump/svg/dark.svg">
+    <img width="50px" height="50px" src="./dump/svg/dark.svg">
 </picture>
 
 # crest
